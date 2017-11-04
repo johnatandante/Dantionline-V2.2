@@ -1,0 +1,28 @@
+Gentile cliente,
+Lo staff di aruba.it comunica l'attivazione del servizio MySql.
+
+Per accedere tramite script vanno impostati i seguenti parametri:
+
+host : 62.149.150.48
+username : Sql91967
+password : d3249269  (composta da otto caratteri)
+nomedatabase : uno dei 5 già creati di default (Sql91967_1 , Sql91967_2 ,
+Sql91967_3 , Sql91967_4 , Sql91967_5)
+
+
+Di seguito sono riportati i dati di per accedere al pannello di controllo
+da dove potrà accedere e gestire i suoi database:
+
+http://mysql.aruba.it
+Nome Utente: Sql91967
+Password: d3249269
+
+
+Per ulteriori informazioni
+http://vademecum.aruba.it/start/mysql/index.asp
+
+Distinti Saluti
+============================
+Staff Servizio MySql
+Aruba S.p.A. - Aruba.it
+============================

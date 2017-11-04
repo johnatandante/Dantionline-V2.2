@@ -1,0 +1,149 @@
+.etichetta{
+	
+	text-transform: capitalize;
+	vertical-align: top;
+	text-align: center;
+	font-size: 12;
+	
+}
+
+.menu{
+
+	background-color: #202020;
+	font-size: 18;
+	word-spacing: length;
+	text-shadow: length;
+	text-align: center;
+
+}
+
+.menu_2{
+	
+	text-transform: capitalize;
+	background-color: #202020;
+	font-size: 16;
+	word-spacing: length;
+	text-shadow: length;
+	text-align: center;
+
+}
+
+.menu_3{
+	
+	text-transform: capitalize;
+	background-color: #202020;
+	font-size: 12;
+	word-spacing: length;
+	text-shadow: length;
+	text-align: center;
+
+}
+
+.menul{
+
+	background-color: #101000;
+	font-size: 18;
+	word-spacing: length;
+	text-shadow: length;
+	text-align: left;
+
+}
+
+.menu2{
+
+    font-size: 12;	
+	text-shadow: length;
+	text-align: left;
+
+}
+
+.centered{
+	
+	vertical-align: top;
+	text-align: center;
+	font-size: 12;
+}
+
+.c_page{
+	vertical-align: top;
+	font-weight: italic;
+	font-size: 12;
+    text-align: left;
+}
+
+
+.left{
+
+	text-align: left;
+	font-size: 12;
+}
+
+.menulink{
+	color: #cfcfcf;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.menulink:hover{
+	text-decoration: underline;
+	color: #ffffff;
+}
+
+.menulink2{
+    font-size: 12;
+	color: #cfcfcf;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.menulink2:hover{
+	text-decoration: underline;
+	color: #ffffff;
+}
+
+.darkside{
+
+	color: #a0a0a0;
+	font-family: Calligraph421 BT;
+	background-color: #0f0f0f;
+	font-size: 12;
+
+}
+
+.warning{
+
+	color: #ff6f0f;
+	text-align: center;
+	font-size: 18;
+	font-weight: bold;
+}
+
+.low_warning{
+
+	color: #ffaf0f;
+	text-align: left;
+	font-size: 12;
+	_font-weight: bold;
+}
+
+.link{
+    text-align: left;
+	color: #cfcfcf;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.link:hover{
+	text-decoration: underline;
+	color: #f0f0f0;
+}
+
+.fotolink{
+
+	color: #450000;
+}
+
+img{
+	
+	border: 0;
+}

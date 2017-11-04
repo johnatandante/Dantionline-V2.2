@@ -1,0 +1,206 @@
+.etichetta{
+	
+	text-transform: capitalize;
+	vertical-align: top;
+	text-align: center;
+	font-size: 12;
+	
+}
+
+.menu_2{
+	
+	text-transform: capitalize;
+	background-color: #590e3b;
+	font-size: 14;
+	word-spacing: length;
+	text-shadow: length;
+	text-align: center;
+
+}
+
+.menu_3{
+	
+	text-transform: capitalize;
+	background-color: #5a0e3b;
+	font-size: 14;
+	word-spacing: length;
+	text-shadow: length;
+	text-align: center;
+
+}
+
+
+.menu{
+
+	text-transform: capitalize;
+	vertical-align: top;
+	text-align: center;
+	font-size: 16;
+	background-color: #530e3b;
+	font-weight: bold;
+}
+
+.menul{
+
+	background-color: #650000;
+	font-size: 18;
+	word-spacing: length;
+	text-shadow: length;
+	text-align: left;
+
+}
+
+
+.warning{
+
+	color: #ff0000;
+	text-align: center;
+	font-size: 18;
+	font-weight: bold;
+}
+
+.low_warning{
+
+	color: #ff0000;
+	text-align: center;
+	font-size: 12;
+	font-weight: bold;
+}
+
+
+.centered{
+	vertical-align: top;
+	text-align: center;
+	font-size: 14;
+	
+}
+
+.center{
+	vertical-align: top;
+	text-align: center;
+	font-size: 14;
+	
+}
+
+.title{
+	text-transform: capitalize;
+	vertical-align: top;
+	text-align: center;
+	font-size: 16;
+	background-color: #5e0e3b;
+	font-weight: bold;
+}
+
+.left{
+	vertical-align: top;
+	text-align: left;
+	font-size: 14;
+	
+}
+
+.right{
+	vertical-align: top;
+	text-align: right;
+	font-size: 14;
+	
+}
+
+.aggiornamento{
+	vertical-align: bottom;
+	text-align: center;
+	font-size: 12;
+}
+
+
+.imageshow{
+	text-align: center;
+	border-width: 0;
+}
+
+.menubkg{
+	text-transform: capitalize;
+	background-color: #4e003b;
+	font-weight: bold;
+}
+
+
+a.link{
+	color: #89438b;
+	font-size: 14;
+	text-decoration: none;
+	font-weight: bold;
+	border-width: 0;
+    text-transform: capitalize;
+
+}
+
+a.urllink{
+	color: #89438b;
+	font-size: 14;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a.link:hover{
+	text-decoration: underline;	
+	color: #ffffff;
+}
+
+.urllink:hover{
+	text-decoration: underline;	
+	color: #ffffff;
+}
+
+a.menulink{
+	color: #89438b;
+	text-transform: capitalize;
+	font-size: 14;
+	text-align: center;
+	text-decoration: none;
+
+	font-weight: bold;
+}
+
+a.menulink:hover{
+	text-decoration: underline;	
+	color: #ffffff;
+}
+
+.darkside{
+
+	color: #89438b;
+	_font-family: Calligraph421 BT;
+	background-color: #0e0e0e;
+	font-size: 12;
+
+	scrollbar-face-color: #4e0e3b;
+	scrollbar-shadow-color: #0e0e0e;
+	scrollbar-highlight-color: #89438b;
+	scrollbar-3dlight-color: #0e0e0e;
+	scrollbar-darkshadow-color: #0e0e0e;
+	scrollbar-track-color: #0e0e0e;
+	scrollbar-arrow-color: #0e0e0e; 
+
+}
+
+.banner{
+
+	color: #ffffff;
+	text-align: center;
+	font-size: 12;
+	font-weight: bold;
+	letter-spacing: 0.5cm;
+	font-style: italic;
+}
+
+.c_page{
+	vertical-align: top;
+	text-align: center;
+	font-weight: italic;
+	font-size: 14;
+}
+
+img{
+	
+	border: 0;
+}
